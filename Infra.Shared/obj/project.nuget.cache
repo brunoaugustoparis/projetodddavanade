@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FNWjAZMeSC3u4YMTr28EWd9Vx/uCA+8rzKVu7N6PNb3sKp9UECY+t9Yx4lWT8Zqrmzd7dyLJmAE5BRqkNL7b4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BRUNO PARIS\\Desktop\\csharp-ddd-main\\Infra.Shared\\Infra.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BRUNO PARIS\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

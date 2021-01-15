@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p2lMC95PaSmGU8PYklb3d1y1qxHfkxU/yYFkpTL0qpumqflGzoC6CHSRCAvkY1ipudaBoTejM5IplEwkUHQQgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BRUNO PARIS\\Desktop\\csharp-ddd-main\\Aurora.Domain\\Aurora.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BRUNO PARIS\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
